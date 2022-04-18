@@ -1,4 +1,4 @@
-
+## The MalRadar Dataset
 
 ## Overview
 Mobile malware detection has attracted massive research effort in our community. A reliable and up-to-date malware dataset is critical to evaluate the effectiveness of malware detection approaches. Essentially, the malware ground truth should be manually verified by security experts, and their malicious behaviors should be carefully labelled. Although there are several widely-used malware benchmarks in our community (e.g., MalGenome, Drebin, Piggybacking and AMD, etc.), these benchmarks face several limitations including out-of-date, size, coverage, and reliability issues, etc.
