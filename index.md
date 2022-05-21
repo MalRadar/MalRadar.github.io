@@ -8,4 +8,4 @@ We make effort to create MalRadar, a growing and up-to-date Android malware data
 
 ## Access to the dataset
 
-We are happy to share our malware dataset. Our dataset is available on Zenodo. In order to prevent any misuse, we kindly ask you to request access to the dataset via Zenodo stating your identity and research scope. We will then grant you the access.
+We are happy to share our malware dataset. Our dataset is available on [Zenodo](https://zenodo.org/record/6451769#.Yoir1r1Bxdh). In order to prevent any misuse, we kindly ask you to request access to the dataset via Zenodo stating your identity and research scope. We will then grant you the access.
